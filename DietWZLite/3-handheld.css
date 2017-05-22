@@ -1,0 +1,654 @@
+/* iPhone 4s in portrait mode */
+
+@media screen and (width: 320px) and (height: 480px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait) {
+    .chart-sec {
+        height: 362px;
+        overflow-x: hidden;
+    }
+
+    
+    #guageScoreCard {
+        height: 195px;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .cycle-value {
+        top: 59px;
+        right: 2px;
+    }
+    .cycle-img {
+        height: 62px;
+        top: 23px;
+    }
+    .cycle-text {
+        top: 55px;
+    }
+      #cycleBarChart {
+        width: 100%;
+        margin: 0 auto;
+        height: 145px;
+    }
+    .content-category-screen {
+        overflow-y: scroll;
+        height: 362px;
+    }
+    .table-diet-track {
+        margin-bottom: 0;
+        height: 403px;
+        overflow-x: scroll;
+    }
+    .table-diet-track table {
+        margin-top: 23px;
+    }
+    .food-category-screen {
+        overflow-y: scroll;
+        height: 269px;
+    }
+    .user-form-heading {
+        margin-top: 30px;
+    }
+    .bee-form {
+        height: 262px;
+        overflow-x: scroll;
+    }
+    .sec-calories {
+        margin-top: 24px;
+    }
+    .content-indian .sec-calories {
+        margin-top: 0px;
+    }
+    .meal.meal-title {
+        margin-top: 0px;
+    }
+    .diet-detail {
+        height: 283px;
+        overflow-x: scroll;
+    }
+    .activity-day {
+        margin-top: 23px;
+    }
+    .piechart-sec {
+        height: 273px;
+        overflow-x: scroll;
+    }
+    .container-table {
+        height: 293px;
+        overflow-x: scroll;
+    }
+    .sec-title {
+        margin: 24px 0 0 0;
+    }
+    .content {
+        overflow-y: scroll;
+        height: 333px;
+    }
+    .table-diet-track-exercise {
+        margin-top: 48px;
+        height: 380px;
+        overflow-x: scroll;
+    }
+    .Nutrition-control {
+        margin-bottom: 0px;
+        overflow-x: scroll;
+        height: 319px;
+    }
+    .objective-option {
+        height: 403px;
+        overflow-x: scroll;
+    }
+    .track-log {
+        height: 331px;
+        overflow-x: scroll;
+    }
+    .check-list {
+        overflow-y: scroll;
+        height: 327px;
+    }
+    #pointsModal .modal-body, #aboutModal .modal-body {
+        padding: 0;
+        height: 340px;
+        overflow-x: scroll;
+    }
+    .activity-container {
+        height: 403px;
+        overflow-x: scroll;
+    }
+    .icon-search {
+        position: absolute;
+        left: 34%;
+        top: 18%;
+        color: #555555;
+    }
+    .content-salad {
+        overflow-y: scroll;
+        height: 303px;
+    }
+    .content-indian, .content-french, .content-chinese, .content-japanese, .content-korean, .content-thai, .content-mexican, .content-italian {
+        overflow-y: scroll;
+        height: 328px;
+    }
+    .meal-tips-screen {
+        overflow-x: scroll;
+        height: 276px;
+    }
+    .content-seafood {
+        overflow-x: scroll;
+        height: 327px;
+    }
+    .healthy-category-screen {
+        overflow-y: scroll;
+        height: 277px;
+    }
+    .daily-detail {
+        height: 331px;
+        overflow-x: scroll;
+    }
+    .info-title {
+        margin-top: 13px;
+    }
+}
+/* End of iPhone 4s in portrait mode */
+/* iPhone 4 in landscape mode */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) and (orientation: landscape) {
+    .chart-sec {
+        height: 203px;
+        overflow-x: hidden;
+    }
+    #cycleBarChart {
+        width: 100%;
+        margin: 0 auto;
+        height: 188px;
+    }
+    #guageScoreCard {
+        height: 210px;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .cycle-value {
+        top: 54px;
+        right: 2px;
+    }
+    .cycle-img {
+        height: 62px;
+        top: 19px;
+    }
+    .cycle-text {
+        top: 48px;
+    }
+    .content-category-screen {
+        overflow-y: scroll;
+        height: 202px;
+    }
+    .meal-title {
+        margin-top: 30px;
+    }
+    .table-diet-track {
+        margin-bottom: 0px;
+        height: 243px;
+        overflow-x: scroll;
+    }
+    .table-diet-track table {
+        margin-top: 23px;
+    }
+    .bee-form {
+        height: 102px;
+        overflow-x: scroll;
+    }
+    .sec-calories {
+        margin-top: 24px;
+    }
+    .meal.meal-title {
+        margin-top: 0px;
+    }
+    .diet-detail {
+        height: 122px;
+        overflow-x: scroll;
+    }
+    .activity-day {
+        margin-top: 23px;
+    }
+    #userActivityPieChart {
+        padding-left: 70px;
+    }
+    .piechart-sec {
+        height: 113px;
+        overflow-x: scroll;
+    }
+    .container-table {
+        height: 133px;
+        overflow-x: scroll;
+    }
+    .table-diet-track-exercise {
+        margin-top: 48px;
+        height: 221px;
+        overflow-x: scroll;
+    }
+    .content {
+        overflow-y: scroll;
+        height: 174px;
+    }
+    .Nutrition-control {
+        margin-bottom: 0;
+        height: 158px;
+        overflow-x: scroll;
+    }
+    .objective-option {
+        height: 243px;
+        overflow-x: scroll;
+    }
+    .track-log {
+        height: 170px;
+        overflow-x: scroll;
+    }
+    .check-list {
+        overflow-y: scroll;
+        height: 167px;
+    }
+    #pointsModal .modal-body, #aboutModal .modal-body {
+        padding: 0;
+        height: 300px;
+        overflow-x: scroll;
+    }
+    .content-salad {
+        overflow-y: scroll;
+        height: 167px;
+    }
+    .content-indian, .content-french, .content-chinese, .content-japanese, .content-korean, .content-thai, .content-mexican, .content-italian {
+        overflow-y: scroll;
+        height: 167px;
+    }
+    .sec-title {
+        margin-top: 24px;
+    }
+    .healthy-category-screen {
+        height: 117px;
+        overflow-x: scroll;
+    }
+    .food-category-screen {
+        height: 134px;
+        overflow-x: scroll;
+    }
+    .info-title {
+        margin-top: 13px;
+    }
+    .meal-tips-screen {
+        overflow-x: scroll;
+        height: 117px;
+    }
+    .content-seafood {
+        overflow-x: scroll;
+        height: 167px
+    }
+    .daily-detail {
+        height: 170px;
+        overflow-x: scroll;
+    }
+}
+/* End of iPhone 4 in landscape mode */
+/*iPhone 5s in landscape mode */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+    .cycle-text {
+        font-size: 13px;
+        color: white;
+        position: relative;
+        top: 46px;
+        font-weight: 100;
+        font-family: 'Helvetica Neue';
+    }
+    .cycle-value {
+        font-size: 24px;
+        color: white;
+        font-weight: 100;
+        position: relative;
+        bottom: -55px;
+        z-index: 2;
+        font-family: 'Helvetica Neue';
+    }
+    .cycle-img {
+        position: relative;
+        top: 19px;
+    }
+    #cycleBarChart {
+        width: 100%;
+        height: 150px;
+    }
+    #guageScoreCard {
+        width: 100%;
+        height: 150px;
+        margin: 0 auto;
+    }
+    .chart-sec {
+        height: 450px;
+        overflow-x: hidden;
+    }
+    .meal-title {
+        margin: 30px 0 0 0;
+    }
+    .content-category-screen {
+        overflow-y: scroll;
+        height: 451px;
+    }
+    .table-diet-track {
+        height: 491px;
+        margin-bottom: 0px;
+        overflow-x: scroll;
+    }
+    .table-diet-track table {
+        margin-top: 23px;
+    }
+    .user-form-heading {
+        margin-top: 30px;
+    }
+    .bee-form {
+        height: 350px;
+        overflow-x: scroll;
+    }
+    .sec-calories {
+        margin-top: 24px;
+    }
+    .content-indian .sec-calories {
+        margin-top: 0px;
+    }
+    .meal.meal-title {
+        margin-top: 0px;
+    }
+    .diet-detail {
+        height: 370px;
+        overflow-x: scroll;
+    }
+    .activity-day {
+        margin-top: 23px;
+    }
+    .piechart-sec {
+        height: 361px;
+        overflow-x: scroll;
+    }
+    .container-table {
+        height: 381px;
+        overflow-x: scroll;
+    }
+    .sec-title {
+        margin: 23px 0 0 0;
+    }
+    .content {
+        overflow-y: scroll;
+        height: 422px;
+    }
+    .table-diet-track-exercise {
+        margin-top: 48px;
+        height: 468px;
+        overflow-x: scroll;
+    }
+    .Nutrition-control {
+        margin-bottom: 0px;
+        overflow-x: scroll;
+        height: 407px;
+    }
+    .objective-option {
+        height: 491px;
+        overflow-x: scroll;
+    }
+    .track-log {
+        height: 418px;
+        overflow-x: scroll;
+    }
+    .check-list {
+        overflow-y: scroll;
+        height: 416px;
+    }
+    #pointsModal .modal-body, #aboutModal .modal-body {
+        padding: 0;
+        height: 400px;
+        overflow-x: scroll;
+    }
+    .activity-container {
+        height: 491px;
+        overflow-x: scroll;
+    }
+    .icon-search {
+        position: absolute;
+        left: 34%;
+        top: 18%;
+        color: #555555;
+    }
+    .food-category-screen {
+        overflow-y: scroll;
+        height: 357px;
+    }
+    .info-title {
+        margin-top: 13px;
+    }
+    .healthy-category-screen {
+        overflow-y: scroll;
+        height: 365px;
+    }
+    .content-salad {
+        overflow-y: scroll;
+        height: 391px;
+    }
+    .content-indian, .content-french, .content-chinese, .content-japanese, .content-korean, .content-thai, .content-mexican, .content-italian {
+        overflow-y: scroll;
+        height: 415px;
+    }
+    .meal-tips-screen {
+        overflow-x: scroll;
+        height: 365px;
+    }
+    .content-seafood {
+        overflow-x: scroll;
+        height: 419px
+    }
+    .daily-detail {
+        height: 418px;
+        overflow-x: scroll;
+    }
+}
+/* End of iPhone 5s in landscape mode */
+/*iPhone 5s in portrait mode */
+
+@media screen and (width: 320px) and (height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait) {
+    .cycle-text {
+        font-size: 13px;
+        color: white;
+        position: relative;
+        top: 46px;
+        font-weight: 100;
+        font-family: 'Helvetica Neue';
+    }
+    .cycle-value {
+        font-size: 24px;
+        color: white;
+        font-weight: 100;
+        position: relative;
+        bottom: -58px;
+        z-index: 2;
+        right: 2px;
+        font-family: 'Helvetica Neue';
+    }
+    .cycle-img {
+        position: relative;
+        top: 19px;
+    }
+    #cycleBarChart {
+        width: 100%;
+        height: 188px;
+    }
+    #guageScoreCard {
+        width: 100%;
+        height: 240px;
+        margin: 0 auto;
+    }
+    .chart-sec {
+        height: 450px;
+        overflow-x: hidden;
+    }
+    .meal-title {
+        margin: 30px 0 0 0;
+    }
+    .content-category-screen {
+        overflow-y: scroll;
+        height: 451px;
+    }
+    .table-diet-track {
+        height: 491px;
+        margin-bottom: 0px;
+        overflow-x: scroll;
+    }
+    .table-diet-track table {
+        margin-top: 23px;
+    }
+    .user-form-heading {
+        margin-top: 30px;
+    }
+    .bee-form {
+        height: 350px;
+        overflow-x: scroll;
+    }
+    .sec-calories {
+        margin-top: 24px;
+    }
+    .content-indian .sec-calories {
+        margin-top: 0px;
+    }
+    .meal.meal-title {
+        margin-top: 0px;
+    }
+    .diet-detail {
+        height: 370px;
+        overflow-x: scroll;
+    }
+    .activity-day {
+        margin-top: 23px;
+    }
+    .piechart-sec {
+        height: 361px;
+        overflow-x: scroll;
+    }
+    .container-table {
+        height: 381px;
+        overflow-x: scroll;
+    }
+    .sec-title {
+        margin: 23px 0 0 0;
+    }
+    .content {
+        overflow-y: scroll;
+        height: 422px;
+    }
+    .table-diet-track-exercise {
+        margin-top: 48px;
+        height: 468px;
+        overflow-x: scroll;
+    }
+    .Nutrition-control {
+        margin-bottom: 0px;
+        overflow-x: scroll;
+        height: 407px;
+    }
+    .objective-option {
+        height: 491px;
+        overflow-x: scroll;
+    }
+    .track-log {
+        height: 418px;
+        overflow-x: scroll;
+    }
+    .check-list {
+        overflow-y: scroll;
+        height: 416px;
+    }
+    #pointsModal .modal-body, #aboutModal .modal-body {
+        padding: 0;
+        height: 400px;
+        overflow-x: scroll;
+    }
+    .activity-container {
+        height: 491px;
+        overflow-x: scroll;
+    }
+    .icon-search {
+        position: absolute;
+        left: 34%;
+        top: 18%;
+        color: #555555;
+    }
+    .food-category-screen {
+        overflow-y: scroll;
+        height: 357px;
+    }
+    .info-title {
+        margin-top: 13px;
+    }
+    .healthy-category-screen {
+        overflow-y: scroll;
+        height: 365px;
+    }
+    .content-salad {
+        overflow-y: scroll;
+        height: 391px;
+    }
+    .content-indian, .content-french, .content-chinese, .content-japanese, .content-korean, .content-thai, .content-mexican, .content-italian {
+        overflow-y: scroll;
+        height: 415px;
+    }
+    .meal-tips-screen {
+        overflow-x: scroll;
+        height: 365px;
+    }
+    .content-seafood {
+        overflow-x: scroll;
+        height: 419px
+    }
+    .daily-detail {
+        height: 418px;
+        overflow-x: scroll;
+    }
+}
+/* End of iPhone 5s in portrait mode */
+/*iPhone 6 in portrait mode */
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {} @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+    body {
+        margin-top: 30px;
+    }
+    .cycle-text {
+        font-size: 13px;
+        color: white;
+        position: relative;
+        top: 46px;
+        font-weight: 100;
+        font-family: 'Helvetica Neue';
+    }
+    .cycle-value {
+        font-size: 24px;
+        color: white;
+        font-weight: 100;
+        position: relative;
+        bottom: -55px;
+        z-index: 2;
+        font-family: 'Helvetica Neue';
+    }
+    .cycle-img {
+        position: relative;
+        top: 19px;
+    }
+    .chart-sec {
+        height: 544px;
+        overflow-x: hidden;
+    }
+    #guageScoreCard {
+        height: 220px;
+    }
+    .highcharts-yaxis-title {
+        position: relative !important;
+        top: -50px !important;
+    }
+    #cycleBarChart {
+        width: 100%;
+        height: 307px;
+        margin: 0 auto;
+    }
+}
+/* End of iPhone 6 in portrait mode */
